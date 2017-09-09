@@ -1,0 +1,22 @@
+{
+  "name": "hapi-app",
+  "version": "1.0.0",
+  "description": "A simple CRUD app built with Hapi",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tomanistor/hapi-app.git"
+  },
+  "author": "Toma Nistor",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tomanistor/hapi-app/issues"
+  },
+  "homepage": "https://github.com/tomanistor/hapi-app#readme",
+  "dependencies": {
+    "hapi": "^16.5.2"
+  }
+}
